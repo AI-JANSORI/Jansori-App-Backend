@@ -1,0 +1,17 @@
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경 설정 파일
+.env
+
+# Django 관련
+db.sqlite3
+
+# Logs
+*.log
+
+# 특정 디렉토리를 무시하지 않기
+!jansori/
+!jansori/*.py
